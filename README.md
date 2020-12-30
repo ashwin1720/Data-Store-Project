@@ -40,3 +40,10 @@
             i. Exit option returns from the execution.
 
 
+# Unit Testing:
+
+      Run the test_datastore.py for the execution of unit test cases.
+      
+# Execution:
+
+      Run the main_datastore.py and follow the above steps for execution.
