@@ -22,12 +22,14 @@
       
             i. Read option displays the JSON value of a key specified by the user.
 
-            ii. Error will be displayed if the Time To Live for that key has expired or if the file is not existing.
+            ii. Error will be displayed if the Time To Live for that key has expired or
+                if the file is not existing.
       c. Delete:
 
             i. Delete option deletes the key from the path that was specified.
             
-            ii. Error will be displayed if the Time To Live for that key has expired or if the file is not existing.
+            ii. Error will be displayed if the Time To Live for that key has expired or 
+                if the file is not existing.
             
       d. View All Files:
       
