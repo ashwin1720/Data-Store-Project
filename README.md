@@ -47,3 +47,10 @@
 # Execution:
 
       Run the main_datastore.py and follow the above steps for execution.
+      
+      
+# Environment:
+      
+      The project works with both Windows and LINUX. 
+      
+      Unit tests are written only for Windows.
